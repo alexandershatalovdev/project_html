@@ -1,0 +1,11 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+.upperMenu {
+   height: 88px;
+   display: flex;
+   flex-direction: row;
+   background: #FFFFFF;
+}
